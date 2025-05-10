@@ -33,3 +33,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## Author
 Developed by [wim66](https://github.com/wim66).
+Flip clock animations provided by u/Logansfury (Reddit)
