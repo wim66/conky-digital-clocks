@@ -2,7 +2,7 @@
 
 Conky Digital Clocks is a collection of stylish digital clock widgets for your Conky desktop environment. These clocks are designed to be visually appealing and highly customizable.
 
-![Clocks](preview.png)
+![Clocks](preview.png) ![Clock](preview2.png)
 
 ## Features
 - **Animated Flip Clock**: A sleek, animated flip clock widget.
